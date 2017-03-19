@@ -6,6 +6,8 @@ main:
      url: /about/
    - title: "How it works"
      url: /how-it-works/
+   - title: "Blog"
+     url: /blog/
    - title: "Gallery"
      url: /gallery/
    - title: "Contact"
