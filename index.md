@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: single
+author_profile: true
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 1 # same as adding an opacity of 0.5 to a black background
