@@ -6,6 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+header:
+  overlay_image: /assets/images/header.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
 locale                   : "en"
 title                    : "Metal Clean"
 title_separator          : "-"
