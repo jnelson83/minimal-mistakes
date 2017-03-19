@@ -242,6 +242,7 @@ defaults:
       type: posts
     values:
       layout: single
+      breadcrumbs: true
       author_profile: true
       read_time: true
       comments: true
