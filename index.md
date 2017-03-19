@@ -1,10 +1,8 @@
 ---
-permalink: /
 layout: splash
-author_profile: true
+author_profile: false
 header:
   overlay_image: /assets/images/header.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: ""
   cta_label: "More Info"
   cta_url: ""
