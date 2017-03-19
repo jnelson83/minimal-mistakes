@@ -20,7 +20,7 @@ The team at Metal Clean are here to help!
 The process was developed with staff trained in metallurgy, materials science, corrosion engineering, and process control. The result is a clean, efficient process for restoration of metallic objects from various states of disrepair to the finish required.  
 Oxides, grease, dirt and other contaminants are removed at an atomic level. The underlying metal is not affected, a fresh clean metallic surface remains after processing.
 - - - 
-#How does it work?
+# How does it work?
 Surely you are now wondering how it all works? Listed below are the steps involved in restoring an item:
 #### Inspection
 You contact us for an inspection/quote.
