@@ -3,7 +3,7 @@ permalink: /
 layout: single
 header:
   overlay_image: /assets/images/header.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 1 # same as adding an opacity of 0.5 to a black background
   caption: ""
   cta_label: "More Info"
   cta_url: ""
