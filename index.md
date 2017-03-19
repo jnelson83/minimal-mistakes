@@ -1,11 +1,6 @@
 ---
-layout: splash
+layout: archive-taxonomy
 author_profile: false
-#header:
-  overlay_image: /assets/images/header.jpg
-  caption: ""
-  cta_label: "More Info"
-  cta_url: ""
 ---
 # About
 Metal Clean is a boutique metal restoration business located in Ballarat, Victoria. Aimed at small business and the home operator, we strive to provide an excellent restoration service at a fair price. We also offer a mail-order restoration service for customers.
