@@ -13,7 +13,7 @@ header:
 locale                   : "en"
 title                    : "DerustIt"
 title_separator          : "-"
-name                     : "Jarrod Nelson"
+name                     : "DerustIt"
 description              : "A revolutionary technology at the heart of a service focused family business"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jarrod Nelson"
+  name             : "DerustIt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Geologist/Metallurgist"
+  bio              : ""
   location         : "Ballarat, VIC"
   bitbucket        :
   codepen          :
