@@ -132,7 +132,7 @@
             animation-delay: 0.25s;
 
     a {
-      color: #fff;
+      color: #71B193;
     }
 
     .wrapper {
@@ -148,7 +148,7 @@
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
+      color: #71B193;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
@@ -157,7 +157,7 @@
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: $type-size-1;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
@@ -181,7 +181,7 @@
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
-  background: #000;
+  background: #71B193;
   text-align: right;
   z-index: 5;
   opacity: 0.5;
