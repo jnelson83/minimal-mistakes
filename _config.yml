@@ -11,10 +11,10 @@ header:
   cta_label: "More Info"
   cta_url: ""
 locale                   : "en"
-title                    : "DerustIt"
+title                    : "Derust It"
 title_separator          : "-"
-name                     : "DerustIt"
-description              : "A revolutionary technology at the heart of a service focused family business"
+name                     : "Derust It"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "DerustIt"
+  name             : "Derust It"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Ballarat, VIC"
