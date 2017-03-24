@@ -1,7 +1,7 @@
 ---
 layout: splash
 ---
-Derustit is a boutique metal restoration business that offers state-wide restoration services to suit a wide range of applications.
+DerustIt is a boutique metal restoration business that offers state-wide restoration services to suit a wide range of applications.
 Potential applications include (but are not limited to):
 * Automotive enthusiasts
 * Home renovators
@@ -25,19 +25,32 @@ Our specialty is working with ferrous metals but we also offer cleaning and trea
 
 Derustit offers a range of solution packages to suit your needs, no job is too small. We can create a customised solution to suit your project.
 
-# What packages do you offer?
+# What packages do we offer?
+Package 1:
+* Precleaning (
+    ** to remove loose contaminants from the object)
+* Electrolytic treatment (to deeply clean the metallic object at an atomic level)
+* Post-treatment coating (lanolin/paint/powdercoat)
 
-Our packages include:
-pre-cleaning (depends on how soiled an object is)
-treatment
-rust preventative coating/zinc plating/anodising
-powder coating/painting
-delivery/postage/other fulfilment services
+Package 2:
+* Package 1 and:
+* Zinc plating of parts prior to coating (very effective rust prevention method)
 
-We generally offer 3 tiers of service however we are more than happy to creat a custom solution for you.
+Package 3:
+* Package 1 & 2 and:
+* ???
+### If you have requirements that differ from the above packages, we are more than happy to create a custom solution to meet your needs.
 
+# Pickup and Delivery
+We operate in Ballarat and offer a weekly pickup and delivery service across Victoria.
+There is also a mail-order service available for smaller objects and for customers across Australia.
 
-#Contact us today to discuss your project and to see how we can help
+# No Job Is Too Small!
+
+## DerustIt is a family business and as such we would like to offer our services to community groups and charities, if you have a project that requires our services, we are more than happy to help. 
+
+# Give us a call and we can discuss your options. 
+
 # 9 156 87
 # info@derustit.com.au
 
