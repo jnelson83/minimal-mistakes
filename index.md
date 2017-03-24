@@ -10,7 +10,7 @@ These applications include (but not limited to):
 * Panel beaters
 * Engine builders
 * Professional flippers
-- - -
+
 # What do we do?
 After many years of development in the shed, we have come up with a metal treatment service that is clean, environmentally friendly and incredibly effective.
 
@@ -21,7 +21,7 @@ On offer is an electrolytic process that is extremely effective in cleaning and 
 Our specialty is working with ferrous metals but we also offer cleaning and treatment options for non-ferrous metals, just ask!
 
 Derustit offers a range of solution packages to suit your needs, no job is too small. We can create customised solutions to your project.
-- - -
+
 # What packages do you offer?
 
 Our packages include:
@@ -32,11 +32,13 @@ powder coating/painting
 delivery/postage/other fulfilment services
 
 We generally offer 3 tiers of service however we are more than happy to creat a custom solution for you.
-- - -
-#Give us a call!
 
-Contact us today to discuss your project and to see how we can help.
+<p align="center">
+  <h1>Give us a call!</h1><br>
+  <h1>Contact us today to discuss your project and to see how we can help</h1><br>
 
 # 9 156 87
 # info@...com.au
+</p>
+
 
